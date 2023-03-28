@@ -5,7 +5,7 @@
 - [Design Patterns](#design-patterns)
 - [Development Team (group_0238)](#development-team-group_0238)
 
-#Conference Project
+# Conference Project
 
 This project is the final assessment of University Of Toronto `CSC207` Fall 2020.
 
